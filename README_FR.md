@@ -50,6 +50,6 @@ Une documentation supplémentaire pour l’installation, la configuration, les c
 ## Links
 
 - [Issues]()
-- [Changelog : Fabric]()
-- [Changelog : Neoforge]()
+- [Changelog : Fabric](https://github.com/callmeloxy/PokeDropEMI/issues)
+- [Changelog : Neoforge]() WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
