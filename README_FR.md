@@ -36,10 +36,10 @@ Si vous souhaitez héberger un serveur pour CobbleSpawnAlert Reforged tout en so
 
 - [BisectHosting](https://url-shortener.curseforge.com/SuXEI)
 
-## Téléchargements
+## Downloads
 
-- [Modrinth]()
-- [CurseForge]()
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pokedrop-addon-emi)
+- [Modrinth]() WIP
 
 ## État du développement
 
