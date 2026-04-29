@@ -1,4 +1,18 @@
+PokeDropEMI
+EMI addon for Cobblemon that adds a dedicated Pokémon drops category with cleaner loot browsing and readable special drop conditions.
 
+Overview
+PokeDropEMI is a utility EMI addon designed to make Pokémon drops easier to browse directly from EMI. It adds a dedicated PokeDrops category, improves loot readability, and helps surface special drop conditions in a cleaner and faster way than relying only on the in-game Pokédex flow.
+
+Features
+Dedicated PokeDrops EMI category
+Pokémon to drops browsing
+Readable special drop conditions
+Improved contextual loot display
+Support for Cobblemon drop data
+Optional support for additional special drops
+Support for Minecraft 1.21.1
+Development targeting Fabric
 
 ## Rôle du dépôt public
 
