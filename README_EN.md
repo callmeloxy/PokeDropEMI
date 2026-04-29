@@ -38,8 +38,8 @@ If you would like to host a server for CobbleSpawnAlert Reforged while supportin
 
 ## Downloads
 
-- [CurseForge]()
-- [Modrinth]()
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pokedrop-addon-emi)
+- [Modrinth]() WIP
 
 ## Development Status
 
