@@ -7,7 +7,7 @@ Choose your language / Choisissez votre langue
 
 ## Quick Links / Liens rapides
 
-- [Issues]()
+- [Issues](https://github.com/callmeloxy/PokeDropEMI/issues)
 - [Changelog Fabric](https://github.com/callmeloxy/PokeDropEMI/blob/main/fabric/CHANGELOG.md)
 - [Changelog Neoforge]() WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
